@@ -43,7 +43,6 @@
             this.txtEmpLogin.Name = "txtEmpLogin";
             this.txtEmpLogin.Size = new System.Drawing.Size(100, 20);
             this.txtEmpLogin.TabIndex = 0;
-            this.txtEmpLogin.Leave += new System.EventHandler(this.txtEmpLogin_Leave);
             // 
             // txtFullName
             // 
